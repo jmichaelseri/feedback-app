@@ -1,0 +1,23 @@
+.container-img img {
+    width:400px;
+}
+
+.container-img {
+    display: flex;
+    justify-content: center;
+}
+
+.container-form {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.success-message {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

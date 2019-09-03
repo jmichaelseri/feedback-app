@@ -1,0 +1,2 @@
+export FLASK_APP=feedback
+export FLASK_ENV=development

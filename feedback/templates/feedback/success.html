@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container-img">
+    <img src="{{ url_for('static', filename='book_depository.png') }}" alt="">
+</div>
+<h1>Thank you!</h1>
+<div class="success-message">
+    <h3>Thank you for your rating. We hope to see you soon.</h3>
+</div>  
+{% endblock %}
